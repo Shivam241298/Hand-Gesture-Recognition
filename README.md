@@ -5,5 +5,5 @@ Trained a deep neural network model to classify different hand gestures with [Ka
 using AlexNet State of the Art Model.
 The model on training achieved an accuracy of 95%.
 
-[!alt](Hand-Gesture-Recognition/download (1).png)
+![alt text](Hand-Gesture-Recognition/download (1).png)
       
